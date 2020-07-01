@@ -1,0 +1,10 @@
+{
+  "env": {
+    "MUX_API" : "https://api.mux.com",
+    "MUX_TOKEN_ID": "2bd00f17-c8aa-4aed-b374-c5f8ed3403f1",
+    "MUX_TOKEN_SECRET":
+      "WDpROjhqXgJrcqs6SC30RTleDUvY4f8zGtJ7fM+6LssFj6zPdqJHc9crQoEx0mXFLmV+nGztcX+",
+    "MUX_STREAM" : "https://stream.mux.com",  
+    "MUX_IMAGE" : "https://image.mux.com"
+  }
+}
